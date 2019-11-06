@@ -15,8 +15,8 @@ $ npm run dev
 ## Reproduce the bug
 
  - Start the app, go to `http://localhost:3000/`
- - In the navigation bar, click  "Golden Layout" to see the paghe wirth the GL instance
- - Click "GL Demo App" to go to the home view => bug happens
+ - In the navigation bar, click  "_Golden Layout_" to see the page with the GL instance
+ - Click "_GL Demo App_" to go back to the home view => __bug happens__
 
 ![img](screenshot-home.png)
 ![img](screenshot-gl.png)
